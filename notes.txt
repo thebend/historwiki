@@ -1,0 +1,14 @@
+Potential to use this data for analysis, trends, events.
+Politcal motivations, eg.
+ - murders up since X elected
+ - all renovations in X district since 2010
+
+Filter System
+ - Location
+ - Time Period
+ - Tag Categories
+
+Tag Categories
+ - Military
+ - Commercial, industrial, economy
+ - Science, education
